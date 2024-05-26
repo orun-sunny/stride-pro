@@ -1,0 +1,174 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Bolognese",
+      "price": "12",
+      "category": "Indian",
+      "description": "A classic Italian pasta dish with a rich and savory Bolognese sauce.",
+      "photoUrl": "https://img.freepik.com/free-photo/pasta-plate-chopping-board-with-fork_23-2148357206.jpg?w=740&t=st=1716710019~exp=1716710619~hmac=e8d109fafa3640c407b8edc6f0ee6a03a679ca9e4e3d1c27a3687c151fd9929e"
+    },
+    {
+      "id": "2",
+      "title": "Chicken Curry",
+      "price": "388",
+      "category": "Japanese",
+      "description": "A flavorful Indian curry made with tender chicken pieces simmered in a spicy sauce.",
+      "photoUrl": "https://img.freepik.com/free-photo/top-view-meat-sauce-soup-with-potatoes-greens-dark-desk_140725-76776.jpg?t=st=1716710257~exp=1716713857~hmac=c078d3130a6ec016ac3b71934eb0256512d4454189974dc87b666d382ee877d9&w=740"
+    },
+    {
+      "id": "3",
+      "title": "Beef Tacos",
+      "price": 8.99,
+      "category": "Mexican",
+      "description": "Delicious beef tacos with seasoned ground beef, fresh vegetables, and a touch of lime.",
+      "photoUrl": "https://img.freepik.com/free-photo/delicious-taco-studio_23-2151047967.jpg?t=st=1716710463~exp=1716714063~hmac=23ce54582c946c0b377ed384cc35fbf9b2044caffa3dd5cb121e89b458ed2dbe&w=740"
+    },
+    {
+      "id": "4",
+      "title": "Caesar Salad",
+      "price": 7.99,
+      "category": "Salads",
+      "description": "Crisp romaine lettuce, croutons, and Parmesan cheese tossed in a creamy Caesar dressing.",
+      "photoUrl": "https://example.com/photos/caesar-salad.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Margherita Pizza",
+      "price": 9.99,
+      "category": "Italian",
+      "description": "Classic Margherita pizza with fresh tomatoes, mozzarella cheese, and basil leaves.",
+      "photoUrl": "https://example.com/photos/margherita-pizza.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Sushi Platter",
+      "price": 14.99,
+      "category": "Japanese",
+      "description": "An assortment of fresh sushi, including nigiri, maki, and sashimi.",
+      "photoUrl": "https://example.com/photos/sushi-platter.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Pad Thai",
+      "price": 11.99,
+      "category": "Thai",
+      "description": "A traditional Thai dish made with stir-fried noodles, shrimp, tofu, and peanuts.",
+      "photoUrl": "https://img.freepik.com/free-photo/flat-lay-noodles-with-vegetables-chicken_23-2148377422.jpg?t=st=1716720736~exp=1716724336~hmac=50b514074498d60e1e585904c61266d8c1053d3e9e26360851d65cad3ac14451&w=740"
+    },
+    {
+      "id": "8",
+      "title": "Greek Salad",
+      "price": 8.49,
+      "category": "Salads",
+      "description": "A fresh salad with tomatoes, cucumbers, olives, feta cheese, and oregano.",
+      "photoUrl": "https://img.freepik.com/free-photo/salad-with-chicken-chunks-served-plate-closeup_1220-6916.jpg?t=st=1716720322~exp=1716723922~hmac=45e027a8cd3aabc2a3eeeb2ed5d5ca5577f1b592b35dedcf31c2eb8db2c09496&w=740"
+    },
+    {
+      "id": "9",
+      "title": "Hamburger",
+      "price": 9.49,
+      "category": "American",
+      "description": "A juicy beef patty served with lettuce, tomato, cheese, and a side of fries.",
+      "photoUrl": "https://img.freepik.com/free-photo/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon_2829-5398.jpg?t=st=1716720693~exp=1716724293~hmac=f6cf749f676a5b629ff7d28d2e2e15a53e96112eebc5c971b14d489e78bc967a&w=740"
+    },
+    {
+      "id": "10",
+      "title": "Tiramisu",
+      "price": 6.99,
+      "category": "Dessert",
+      "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "photoUrl": "https://img.freepik.com/free-photo/bowl-banana-split-ice-cream-with-banana-split-bananas-top_188544-32639.jpg?t=st=1716720648~exp=1716724248~hmac=79f65084184916e30dfcb59df3295b5934c50697055e8c071d8b4fc1b846bb6b&w=740"
+    },
+    {
+      "id": "11",
+      "title": "Pho",
+      "price": 10.49,
+      "category": "Vietnamese",
+      "description": "A fragrant Vietnamese soup made with beef broth, rice noodles, and fresh herbs.",
+      "photoUrl": "https://img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2168.jpg?t=st=1716720577~exp=1716724177~hmac=448ba5751712b488bd108e494eea16765cb6eb592096eff74ed9d30800ee1794&w=740"
+    },
+    {
+      "id": "12",
+      "title": "Fish and Chips",
+      "price": 12.49,
+      "category": "British",
+      "description": "Crispy fried fish served with golden fries and a side of tartar sauce.",
+      "photoUrl": "https://img.freepik.com/free-photo/fish-chip-with-french-fries_1203-9556.jpg?t=st=1716710781~exp=1716714381~hmac=9cea55c666761fcfd822d29dc1955dd86af146e575548a970ff167180e074be6&w=740"
+    },
+    {
+      "id": "13",
+      "title": "Moussaka",
+      "price": 13.49,
+      "category": "Greek",
+      "description": "A traditional Greek dish made with layers of eggplant, ground meat, and béchamel sauce.",
+      "photoUrl": "https://img.freepik.com/premium-psd/psd-greek-moussaka-layers-eggplant-minced-meat-bechamel-sauce-baked-isolated_741910-69847.jpg?w=740"
+    },
+    {
+      "id": "14",
+      "title": "Chicken Alfredo",
+      "price": 11.99,
+      "category": "Italian",
+      "description": "A creamy pasta dish made with grilled chicken, fettuccine, and Alfredo sauce.",
+      "photoUrl": "https://img.freepik.com/free-photo/side-view-pasta-with-sauce-parmesan-mushrooms-lettuce_176474-2504.jpg?t=st=1716710615~exp=1716714215~hmac=c994270786adca7be38e4047a6e6b5f601ad1f004db4f3678799f98c7d61e5f6&w=740"
+    },
+    {
+      "id": "15",
+      "title": "Falafel Wrap",
+      "price": 7.99,
+      "category": "Middle Eastern",
+      "description": "A wrap filled with crispy falafel, fresh vegetables, and tahini sauce.",
+      "photoUrl": "https://img.freepik.com/free-photo/side-view-chicken-burrito-grilled-chicken-fillet-with-rice-wrapped-tortilla-fresh-cucumber-tomato-carrot-lettuce-plate_141793-4820.jpg?t=st=1716710565~exp=1716714165~hmac=53444e6b18a75ed75535ca4c2e0c4e7d808b3632753971a1601853b7372bf1c3&w=740"
+    },
+    {
+      "id": "1",
+      "title": "aaa",
+      "price": "",
+      "category": "Italian",
+      "description": "aa",
+      "photoUrl": "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Italian",
+      "id": "2314"
+    },
+    {
+      "title": "Indian",
+      "id": "8569"
+    },
+    {
+      "title": "Japanese",
+      "id": "5680"
+    },
+    {
+      "title": "Mexican",
+      "id": "e23f"
+    },
+    {
+      "title": "Thai",
+      "id": "970b"
+    },
+    {
+      "title": "British",
+      "id": "b069"
+    },
+    {
+      "title": "Middle Eastern",
+      "id": "b460"
+    },
+    {
+      "title": "French",
+      "id": "8c74"
+    },
+    {
+      "title": "Chinese",
+      "id": "c33b"
+    },
+    {
+      "title": "American",
+      "id": "d05a"
+    }
+  ]
+}
